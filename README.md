@@ -8,7 +8,7 @@ To build this text editor, you will start with an existing application and imple
 
 ### Github : https://github.com/himali-dev/pwa-texteditor
 
-### Deployed Link :
+### Deployed Link : https://pwa-text-editor-himali-f069cbffed6f.herokuapp.com/
 
 ## User Story
 AS A developer
