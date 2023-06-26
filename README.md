@@ -6,9 +6,9 @@ Your task is to build a text editor that runs in the browser. The app will be a 
 To build this text editor, you will start with an existing application and implement methods for getting and storing data to an IndexedDB database. You will use a package called idb, which is a lightweight wrapper around the IndexedDB API. It features a number of methods that are useful for storing and retrieving data, and is used by companies like Google and Mozilla.
 
 
-### Github : https://github.com/himali-dev/NOSQL_Social-network-API
+### Github : https://github.com/himali-dev/pwa-texteditor
 
-### Video : https://drive.google.com/file/d/1higJgV-t97gnj1_xmzcqx6QUiDuS9zda/view
+### Deployed Link :
 
 ## User Story
 AS A developer
